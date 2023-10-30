@@ -73,3 +73,5 @@ The response strucutre using the renderer and exception handle will be:
         }
     }
 ```
+
+*An extension of [Django Styleguide by Hacksoft's](https://github.com/HackSoftware/Django-Styleguide#approach-2---hacksofts-proposed-way) error handling section.*
